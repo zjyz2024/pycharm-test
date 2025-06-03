@@ -17,6 +17,8 @@ you want to open a pull request, please read the [contributing guidelines](https
 
 Thanks for the original author [**crazy-max**](https://github.com/sponsors/crazy-max)
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ## License
 
 MIT. See `LICENSE` for more details.<br />
